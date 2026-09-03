@@ -51,8 +51,8 @@
       "heading": "#3c2a22"
     },
     "type": {
-      "headingFont": "DM Serif Display",
-      "bodyFont": "Lora",
+      "headingFont": "Archivo",
+      "bodyFont": "Archivo",
       "headingWeight": 400,
       "bodyWeight": 400,
       "baseSize": 16,
