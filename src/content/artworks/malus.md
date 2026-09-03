@@ -8,7 +8,7 @@ status: available
 price: $32
 alt: Apple
 collection: round-lucky-fruits
-order: 0
+order: 4
 featured: false
 ---
 

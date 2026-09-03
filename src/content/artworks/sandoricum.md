@@ -8,7 +8,7 @@ status: available
 price: $32
 alt: Cotton fruit
 collection: round-lucky-fruits
-order: 0
+order: 3
 featured: false
 ---
 

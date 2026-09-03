@@ -8,7 +8,7 @@ status: available
 price: $32
 alt: Watermelon
 collection: round-lucky-fruits
-order: 0
+order: 1
 featured: false
 ---
 

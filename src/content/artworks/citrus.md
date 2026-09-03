@@ -8,7 +8,7 @@ status: available
 price: $32
 alt: Citrus
 collection: round-lucky-fruits
-order: 0
+order: 2
 featured: false
 ---
 
