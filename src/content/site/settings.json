@@ -7,17 +7,26 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
-  "watermark": false,
-  "watermarkText": "",
+  "rightClickProtect": true,
+  "watermark": true,
+  "watermarkText": "crty.illustr",
   "protectFromAI": false,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
   "metaDescription": "",
-  "socialLinks": [],
+  "socialLinks": [
+    {
+      "label": "Instagram",
+      "url": "https://www.instagram.com/crty.illustr"
+    },
+    {
+      "label": "Tiktok",
+      "url": "https://www.tiktok.com/@crty.illustr"
+    }
+  ],
   "supportLinks": [],
-  "linksEnabled": false,
+  "linksEnabled": true,
   "links": [],
   "searchEnabled": false,
   "cvAutoExhibitions": false,
@@ -118,5 +127,7 @@
       "projects": false,
       "stockists": false
     }
-  }
+  },
+  "linksDisplayName": "crty",
+  "linksBio": "A self-taught whimsical artist"
 }
